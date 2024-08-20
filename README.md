@@ -2,15 +2,10 @@
 
 Welcome to the `projetosMaya` repository! This repository contains a collection of projects developed using Autodesk Maya, focusing on 3D modeling, animation, and rendering.
 
-## Introduction
-
-This repository was created to store and share projects developed in Maya.
-
 ## Main Goal
 
 The main goal of this repository is to document and showcase my studies and progress in 3D modeling, animation, and rendering using Autodesk Maya.  
 By sharing my work, I hope to keep myself motivated and I want this repository to be a space where we can swap tips, learn from each other, and get inspired in the 3D world.
-
 
 ## Contributing
 
